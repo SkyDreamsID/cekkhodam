@@ -71,4 +71,4 @@ while True:
     if is_continue.lower() != "y":
         break
 
-print(f"{"---- Program selesai, terima kasih ----":^40}")
+print(f"{'---- Program selesai, terima kasih ----':^40}")
