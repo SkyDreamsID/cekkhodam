@@ -27,7 +27,9 @@ KHODAM = ("Naga Putih",
           "Rifki Bejir",
           "Tegar Hengker",
           "Roger Sumatra",
-          "Sendirian")
+          "Sendirian",
+          "Jin Sigma",
+          "Zilong")
 
 def header():
     """header"""
